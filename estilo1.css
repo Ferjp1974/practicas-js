@@ -1,0 +1,13 @@
+body{
+    font-family: Arial, sans-serif ;
+    text-align: center;
+    margin: 20px;
+    background-color: green;
+}
+li{
+    margin: 10 px 0;
+}
+ul{
+    list-style-type: none;
+    padding:0;
+}
